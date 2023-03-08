@@ -51,7 +51,7 @@ class _SearchState extends State<Search> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Text(
-              "Search for",
+              "Search for..",
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 25,
