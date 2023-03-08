@@ -2,7 +2,7 @@
 
 class FruitModel {
   String? fruitname;
-  int? fruitprice;
+  String? fruitprice;
   String? fruitimage;
 
   FruitModel(this.fruitname, this.fruitprice, this.fruitimage);
